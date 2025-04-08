@@ -20,7 +20,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 70px; /* Aumenta la separación entre los videos */
+    gap: 200px; /* Aumenta la separación entre los videos */
 }
 
 .project {
