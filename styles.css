@@ -16,24 +16,30 @@ header {
     padding: 40px;
 }
 
+.about p {
+    text-align: justify; /* Justifica el texto en la sección 'ABOUT ME' */
+    max-width: 800px; /* Añadir un máximo ancho para mejorar la legibilidad */
+    margin: 0 auto; /* Centra el texto */
+}
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10000px; /* Aumenta la separación entre los proyectos */
+    gap: 10000px; /* Espaciado ajustado entre los videos */
 }
 
 .project {
-    width: 560px; /* Mantiene el tamaño del video */
+    width: 560px; /* Tamaño fijo para los videos */
     text-align: center;
-    margin-bottom: 40px; /* Agrega espacio debajo de cada proyecto */
+    margin-bottom: 40px; /* Espacio entre proyectos */
 }
 
 .project iframe {
     width: 100%;
     height: 315px;
     border-radius: 8px;
-    display: block; /* Asegura que los iframes sean bloques */
+    display: block;
     margin: 0 auto; /* Centra los videos */
 }
 
