@@ -20,7 +20,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 50px; /* Aumenta la separación entre los proyectos */
+    gap: 100px; /* Aumenta la separación entre los proyectos */
 }
 
 .project {
