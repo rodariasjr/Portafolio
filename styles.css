@@ -20,11 +20,11 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 40px; /* Aumenta la separación entre los videos */
+    gap: 70px; /* Aumenta la separación entre los videos */
 }
 
 .project {
-    width: 560px; /* Tamaño fijo para mantener el formato de video */
+    width: 450px; /* Tamaño fijo para mantener el formato de video */
     text-align: center;
 }
 
