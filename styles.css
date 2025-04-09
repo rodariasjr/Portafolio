@@ -18,7 +18,7 @@ header {
 
 .about p {
     text-align: justify; /* Justifica el texto en la sección 'ABOUT ME' */
-    max-width: 800px; /* Añadir un máximo ancho para mejorar la legibilidad */
+    max-width: 1000px; /* Añadir un máximo ancho para mejorar la legibilidad */
     margin: 0 auto; /* Centra el texto */
 }
 
